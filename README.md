@@ -4,7 +4,7 @@ This repository is largely based on the article from Ian Goodfellow et. al. Gene
 
 It's pretty hard to decently train a GAN, since the discriminator and generator have to be pretty even in their capabilities. If the generator overfits, it only generates the same digit over and over. However, if the discriminator is too strong then the generative model learns too little; and therefore produces very low quality digits. There are definitely better models out there, such as CycleGAN and StyleGAN, however this project was solely built to understand the dynamic between the generator and the discriminator. I was also largely interested in just seeing how GANs work and what the underlying mathematics are that make the GAN a working model. I built this model to create fake digits with the MNIST database. The results are pretty decent, but nothing out of the ordinary. This project was purely undertaken as a learning experience.  
 
-Some results produced by the model in this repository:
+Some digits produced by the model in this repository:
 
 ![alt text](https://github.com/TimVeenboer/DCGANnotebook/blob/master/customdigits.png)
 
