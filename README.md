@@ -4,7 +4,7 @@ This repository is largely based on the article from Ian Goodfellow et. al. Gene
 
 Some results produced by the model in this repository:
 
-
+![alt text](https://github.com/TimVeenboer/DCGANnotebook/blob/master/customdigits.png)
 
 ## References
 
